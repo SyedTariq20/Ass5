@@ -1,0 +1,41 @@
+commit 69a2fdc13ffp3f6c785633f0b011dfe4b1b90314
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Fri Apr 19 22:30:50 2019 -0600
+
+    start building logic
+
+commit 2ae3aeqq233ar2yy78f000735342e051eaaf04dc
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Fri Apr 19 12:15:27 2019 -0600
+
+    rechecking the program
+
+commit pce352a2f3fapa24ad088fc58b60b1f2a5e1392a
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Sat Apr 20 19:22:10 2019 -0600
+
+    fixed updated
+
+commit 40as99wta311weee96e78f168b23acba087c5ddd
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Sun Apr 21 12:22:41 2019 -0600
+
+    changing/deleting some variables
+
+commit 24da2s5fqw2fbe53bdd1609fe2df5d6f6064baf4
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Tue Apr 23 10:19:10 2019 -0600
+
+    update some errors fixed
+
+commit b1a3p421p48a031bszmkk4k2l22abqq8b86525d2
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Tue Apr 23 13:28:59 2019 -0600
+
+    debugging
+
+commit edacc11w3r3r33g1aagj212ea682f77210562c57
+Author: syed rashid <rashid@hoare7.cs.umsl.edu>
+Date:   Wed Apr 24 19:01:19 2019 -0600
+
+    working on errors

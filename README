@@ -1,0 +1,22 @@
+
+The main aim of the program is to manage resources and allocate them to processes, avoiding deadlock. 
+When ever a resource is being allocated to a process after it request for it, a deadlock avoidance executes to verify for a safe state. If it's true then allocate the request.
+When it is an unsafe state it creates a queue and block the process. It unblocks the resource when the resource is released and run the deadlock avoidance algorithm and verify it works according to the request.
+
+By Syed Tariq Rashid.
+
+
+Command Line arguments :
+
+-h : HELP.       
+-l : The log file Name provided by the user. If nothing is provided by the user, "default" will be the filename.
+-v : to modify verbose option (0: Verbose Off, 1 : Verbose On). If nothing is provided, default is 0.
+
+In order to run this program..
+   
+1) Run make
+2) Run executable file with necessary arguments. 
+3) How to run:  ./oss -l logfile -v verbose_option
+4) If you want to remove output files execute this script: make clean
+
+The output result is stored in the logfile.
